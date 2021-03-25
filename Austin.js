@@ -4,8 +4,8 @@
 function main() {
 
   var listSymbol = ["BTC","ETH","WAN","ADA","OMG","BCH","USDT"];
-  var token = "นำ token มาใส่ตรงนี้";
+  var token = "ys2m1ZwPYkMtbLDcHWztZ9yPAj3eKbmZB1JuhKtbX9A";
 
   funtionALL(listSymbol,token)
-  Logger.log("สำเร็จแล้วน้า")
+  Logger.log("Price HERE !!")
 }
